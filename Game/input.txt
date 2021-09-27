@@ -1,0 +1,29 @@
+#Q - Biet bay?
+#Q - Bay nhanh?
+#Q - An thit?
+#A - Dai bang
+#A - Chim sau
+#Q - Biet gay?
+#A - Ga
+#A - Buom
+#Q - Tren can?
+#Q - An thit?
+#Q - Hoang da?
+#Q - Chay rat nhanh?
+#A - Bao
+#A - Su tu
+#Q - Biet sua?
+#A - Cho
+#A - Meo
+#Q - Con trung?
+#A - Sau
+#A - Bo
+#Q - Co vu?
+#Q - Hung du?
+#A - Ca map
+#Q - Ki'ch thuo'c khong lo` ? 
+#A - Ca' voi xanh ? 
+#A - Ca heo
+#Q - Co vay?
+#A - Ca chep
+#A - Sua.
